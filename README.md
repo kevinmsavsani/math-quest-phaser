@@ -1,0 +1,3 @@
+# Math Quest
+
+Math Quest is an engaging, educational game designed to help players improve their mathematical skills. The game involves a hero character navigating through different levels, solving mathematical puzzles to defeat enemies and unlock doors. Players will encounter different types of mathematical problems such as addition, subtraction, multiplication, and division. The difficulty of the problems will increase as the player progresses through the levels.
